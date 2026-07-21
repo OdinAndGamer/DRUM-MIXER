@@ -1,0 +1,6 @@
+{
+  "name": "Drum Practice Mixer",
+  "description": "Ein interaktiver Mehrkanal-Mixer für Schlagzeuger zum Üben. Unterstützt BPM-Tempoanpassung (50% - 120%), präzise A-B-Loops, Takt-Einzähler (Count-In) mit Audio-Feedback und eigenen Song-Upload.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
